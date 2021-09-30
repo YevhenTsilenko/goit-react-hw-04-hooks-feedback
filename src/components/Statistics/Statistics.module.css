@@ -1,0 +1,23 @@
+.statistics {
+    font-size: 24px;
+}
+
+.good {
+    color: rgb(25, 236, 106);
+}
+
+.neutral {
+    color: rgb(59, 137, 226);
+}
+
+.bad {
+    color: red;
+}
+
+.total {
+    color: rgb(127, 62, 233);
+}
+
+.positive {
+    color: rgb(25, 236, 106);
+}

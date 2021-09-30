@@ -1,0 +1,18 @@
+.btn {
+    width: 150px;
+    height: 40px;
+    font-size: 24px;
+    outline: none;
+    border-color: transparent;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn:not(:first-child) {
+    margin-left: 10px;
+}
+
+.btn:hover, 
+.btn:focus{
+background-color: rgb(217, 255, 0);;
+}
